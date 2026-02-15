@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Test User",
+      "email": "testuser999@example.com",
+      "password": "$2a$10$EVlCzTevKLm5Ixt3QdL4ne.AITGraRLWliVFyr78xpid6p4wtqECC",
+      "location": "Test City",
+      "soilDetails": {
+        "N": 10,
+        "P": 20,
+        "K": 30,
+        "ph": 6.5
+      },
+      "_id": "pbo9rb6le",
+      "id": "pbo9rb6le",
+      "createdAt": "2026-02-12T20:51:34.903Z"
+    },
+    {
+      "name": "Sinchine Das",
+      "email": "sinchinedas9285@gmail.com",
+      "password": "$2a$10$ozLGJeqx57WwvDec7fAS6e0irj5uh3zCyrcl7A01w64dnkgPAVPs6",
+      "location": "Jalandhar",
+      "soilDetails": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "ph": 7
+      },
+      "_id": "rgm1lx9ov",
+      "id": "rgm1lx9ov",
+      "createdAt": "2026-02-12T20:59:01.022Z"
+    }
+  ],
+  "advisories": [
+    {
+      "type": "crop",
+      "inputs": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "ph": 7,
+        "temperature": 25,
+        "humidity": 50,
+        "rainfall": 100
+      },
+      "prediction": "mothbeans",
+      "_id": "z1zw26apt",
+      "id": "z1zw26apt",
+      "createdAt": "2026-02-12T20:59:02.511Z"
+    }
+  ]
+}
